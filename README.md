@@ -1,3 +1,3 @@
-- 🔭 Founding Admin at LiteRECORDS since 2010
+- 🔭 Founder and Admin at LiteRECORDS since 2010
 - 🌱 Internation DJ and artist since 2007
 - 👯 Awesome since 1987
