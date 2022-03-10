@@ -1,5 +1,5 @@
 # Bradley Ashton [(@enitial)](https://github.com/enitial) ![Generic badge](https://img.shields.io/github/followers/enitial?style=social)
-Hiya 👋🏼 ! I am a possionate coder from 🇬🇧 Sheffield, UK. In 2004 I progressed through web design training using Macromedia (Adobe CC these days) learning HTML & CSS.  
+Hiya 👋🏼 ! I am a possionate coder from 🇬🇧 Sheffield, UK. In 2004 I progressed through web design training using Macromedia (Adobe CC these days 🙄 ) learning HTML & CSS. Today though i code in VSCode with React and Javascript 💪🏼.  
 
 <details closed>
 <summary>More on my history</summary>
@@ -8,4 +8,4 @@ My web design teacher introduced me to performing as a DJ and how to use Cool Ed
 </details>
 
 ### The Developer Academy
-A massive THANK YOU to Alyzande, Neil, Colin, Ben and Ilana from The Developer Academy where I've learnt modern software development in JS, OOP, Redux and MERN stack. I aspire to be a professional full-stack developer.
+A massive 🙏🏼 THANK YOU to Alyzande, Neil, Colin, Ben and Ilana from The Developer Academy where I've learnt modern software development in JS, OOP, Redux and MERN stack. I aspire to be a professional full-stack developer 🤓.
