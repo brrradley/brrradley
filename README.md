@@ -5,8 +5,7 @@ Hiya 👋🏼 ! I am a passionate coder from 🇬🇧 Sheffield, UK. In 2004 I p
 <summary>More on my history</summary>
 <br>
   From school I had a thirst for knowledge in technology. Despite only a brief stint on a computer hardware course at Bury College i would later find mentorship and teaching from a close friend in Tony Higham. Tony taught me the fundamentals in Visual Basic 6 and in an era of Yahoo! chat rooms and MSN Messenger i would program social tools.  
-  
-  
+<br/><br/>
   My web design teacher introduced me to performing as a DJ and how to use Cool Edit Pro 2 (another Adobe product now - Adobe Audition) and my life as a mashup artist and DJ began. Shortly after I created a community board using vBulletin software dedicated to music artists - LiteRECORDS (est 2010). Skip a decade or so and I wanted to return to coding.
 </details>
 
