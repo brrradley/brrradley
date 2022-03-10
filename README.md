@@ -1,6 +1,6 @@
-# Bradley Ashton [(@enitial)](https://github.com/enitial)
+# Bradley Ashton [(@enitial)](https://github.com/enitial) ![Generic badge](https://img.shields.io/github/followers/enitial?style=social)
 Hiya 👋🏼 ! I am a possionate coder from 🇬🇧 Sheffield, UK. In 2004 I progressed through web design training using Macromedia (Adobe CC these days) learning HTML & CSS.  
-![Generic badge](https://img.shields.io/github/followers/enitial?style=social)
+
 <details closed>
 <summary>More on my history</summary>
 <br>
