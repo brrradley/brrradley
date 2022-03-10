@@ -1,4 +1,4 @@
-# Bradley Ashton (@enitial)
+# Bradley Ashton [(@enitial)](https://github.com/enitial)
 Hiya 👋🏼 ! I am a possionate coder from 🇬🇧 Sheffield, UK. In 2004 I progressed through web design training using Macromedia (Adobe CC these days) learning HTML & CSS.
 <details closed>
 <summary>More on my history</summary>
