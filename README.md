@@ -8,6 +8,6 @@ My web design teacher introduced me to performing as a DJ and how to use Cool Ed
 </details>
 
 ### The Developer Academy
-A MASSIVE THANK YOU 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) & Ben Artha and Ilana from The Developer Academy where I've learnt modern software development skills in JS, OOP, Redux and MERN stack. I aspire to be a professional full-stack developer one day ⏱.
+**A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) & Ben Artha and Ilana from The Developer Academy where I've learnt modern software development skills in JS, OOP, Redux and MERN stack. I aspire to be a professional full-stack developer one day ⏱.
 
 #### 
