@@ -10,6 +10,6 @@ Hiya 👋🏼 ! I am a passionate coder from 🇬🇧 Sheffield, UK. In 2004 I p
 </details>
 
 ### The Developer Academy
-**A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) and Ben Artha & Ilana Black from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt modern software development skills in JS, OOP, Redux and MERN stack.
+**A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) and Ben Artha & Ilana Black from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern software development skills in JS, OOP, Redux and MERN stack.
 
 #### 
