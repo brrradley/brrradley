@@ -1,4 +1,2 @@
-- 🕹 Gaming Content Creator and Streamer since 2017
-- 👨🏻‍🔧 Founder, Admin and Developer at LiteRECORDS since 2010
-- 🎧 International DJ and Artist since 2007
-- 👯 Absolutely Awesome since 1987
+# Bradley Ashton (@enitial)
+Hiya 👋🏼 ! I am a possionate coder from 🇬🇧 British
