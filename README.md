@@ -1,4 +1,4 @@
-# Bradley Ashton [(@enitial)](https://github.com/enitial) ![Generic badge](https://img.shields.io/github/followers/enitial?style=social)
+# Bradley Ashton [(@enitial)](https://github.com/enitial) ![Generic badge](https://github.com/enitial?tab=followers)
 Hiya 👋🏼 ! I am a passionate coder from 🇬🇧 Sheffield, UK. In 2004 I progressed through web design training using Macromedia (Adobe CC *these days* 🙄 ) learning HTML & CSS. Today though i code in VSCode with React and Javascript 💪🏼, I aspire to be a professional full-stack developer one day ⏱.  
 
 <details closed>
@@ -10,6 +10,6 @@ Hiya 👋🏼 ! I am a passionate coder from 🇬🇧 Sheffield, UK. In 2004 I p
 </details>
 
 ### The Developer Academy
-**A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) and Ben Artha & Ilana Black from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern software development skills in JS, OOP, Redux and MERN stack.
+**A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) and Ben Artha & Ilana Black from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern software development skills in JS, OOP and MERN stack.
 
 #### 
