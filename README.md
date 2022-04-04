@@ -1,7 +1,7 @@
 ## Hiya, I'm Bradley aka [@enitial](https://github.com/enitial). Knowledge is power, so they say.
 👋🏼 I'm a passionate coder from 🇬🇧 Sheffield. Trained in web development: JavaScript, React, Node, Express, and so on 💪🏼. I've returned to my journey to be a full-stack web developer and software developer one day ⏱.   
 *I wanna be the very best, like no-one ever was, dum dum-dum*<img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
-
+---
 <details closed>
 <summary>More on my history</summary>
 <br>
