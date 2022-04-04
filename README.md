@@ -2,7 +2,7 @@
 👋🏼 I'm a passionate coder from 🇬🇧 Sheffield. Trained in web development: JavaScript, React, Node, Express, and so on 💪🏼. I've returned to my journey to be a full-stack web developer and software developer one day ⏱. I'm one of them inconspicuous geeks, I like Harry Potter, Pokémon, 90's music and rom-coms 🤓   
 *I wanna be the very best, like no-one ever was, dum dum-dum*<img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
 <details closed>
-<summary>More on my history</summary>
+<summary>read more boring stuff about my past</summary>
 <br>
   From school I had a thirst for knowledge in technology. Despite only a brief stint on a computer hardware course at Bury College i would later find mentorship and teaching from a close friend in Tony Higham. Tony taught me the fundamentals in Visual Basic 6 and in an era of Yahoo! chat rooms and MSN Messenger i would program social tools.  
 <br/><br/>
