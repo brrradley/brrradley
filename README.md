@@ -8,6 +8,7 @@ Hiya 👋🏼 ! I am a passionate coder from 🇬🇧 Sheffield, UK. In 2004 I p
 <br/><br/>
   Back to 2004: My web design teacher Dave Jones (Pride Media, Middleton) introduced me to performing as a DJ and how to use Cool Edit Pro 2 (another Adobe product now - Adobe Audition) and my life as a mashup artist and DJ began. Shortly after I created a community board using vBulletin software dedicated to music artists - LiteRECORDS (est 2010). Skip a decade or so and I wanted to return to coding so we're up-to-speed.
 </details>
+<hr>
 
 ### The Developer Academy
 **A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) and Ben Artha & Ilana Black from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern software development skills in JS, OOP and MERN stack.
