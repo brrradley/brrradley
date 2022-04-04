@@ -14,5 +14,6 @@
 **A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) and Ben Artha & Ilana Black from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern web development skills in JS, OOP and MERN stack.
 
 ---
-**Feel free to drop me a message for a chit-chat**    
-Facebook: [@bradleyjamesashton](https://www.facebook.com/bradleyjamesashton) LinkedIn: [@b-ashton](https://www.linkedin.com/in/b-ashton/)
+#### Feel free to drop me a message for a chit-chat   
+Facebook: [@bradleyjamesashton](https://www.facebook.com/bradleyjamesashton)   
+LinkedIn: [@b-ashton](https://www.linkedin.com/in/b-ashton/)
