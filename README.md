@@ -1,5 +1,5 @@
 ## Hiya, I'm Bradley or [@enitial](https://github.com/enitial). Knowledge is power, so they say.
-👋🏼 I'm a passionate coder from 🇬🇧 Sheffield. Trained in web development: JavaScript, React, Node, Express, and so on 💪🏼. I've returned to a journey to be a full-stack web developer and software developer one day ⏱.  
+👋🏼 I'm a passionate coder from 🇬🇧 Sheffield. Trained in web development: JavaScript, React, Node, Express, and so on 💪🏼. I've returned to my journey to be a full-stack web developer and software developer one day ⏱. *I wanna be the very best, like no-one ever was, dum dum-dum*  
 
 <details closed>
 <summary>More on my history</summary>
