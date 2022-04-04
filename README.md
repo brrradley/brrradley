@@ -22,6 +22,6 @@
 My vision is to design it professionally but with some cool aspects - clever styling and JS. I want to include something that's a little different, something to remember me 🔮
 
 ---
-##### Feel free to drop me a message for a chit-chat   
+#### Feel free to drop me a message for a chit-chat   
 Facebook: [@bradleyjamesashton](https://www.facebook.com/bradleyjamesashton)   
 LinkedIn: [@b-ashton](https://www.linkedin.com/in/b-ashton/)
