@@ -17,6 +17,7 @@
 #### Currently working on a new portfolio   
 * Looking to create frontend with HTML, SCSS, JS and React.   
 * The backend will be Node, Express & some NoSQL database (at some point).   
+   
 My vision is to design it professionally but with some cool aspects - clever styling and JS. I want to include something that's a little different, something to remember me 🔮
 
 ---
