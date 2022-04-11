@@ -25,3 +25,4 @@ My vision is to design it professionally but with some cool aspects - clever sty
 #### Feel free to drop me a message for a chit-chat   
 Facebook: [@bradleyjamesashton](https://www.facebook.com/bradleyjamesashton)   
 LinkedIn: [@b-ashton](https://www.linkedin.com/in/b-ashton/)
+WhatsApp: [@447516422971](https://wa.me/447516422971)
