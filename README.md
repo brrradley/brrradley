@@ -14,10 +14,10 @@
 **A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) and Ben Artha & Ilana Black from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern web development skills in JS, OOP and MERN stack.   
 
 ---
-#### Currently working on a new portfolio (amongst other minor projects)   
+#### Currently working on a new portfolio (amongst other projects)   
 * Looking to create frontend with HTML, SCSS, JS and React.   
 * The backend will be Node, Express & some API with NoSQL database (at some point).   
-* *all hosted on my cloud server from DigitalOcean.*
+* *all hosted on a CentOS cloud server from DigitalOcean.*
    
 My vision is to design it professionally but with some cool aspects - clever styling and JS. I want to include something that's a little different, something to remember me 🔮
 
