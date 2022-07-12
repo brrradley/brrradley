@@ -1,4 +1,4 @@
-## Hiya 👋🏼, I'm Bradley aka [@enitial](https://github.com/enitial). Knowledge is power, so they say.
+## Hiya 👋🏼, I'm Bradley aka [@enitdev](https://github.com/enitdev). Knowledge is power, so they say.
 I'm a passionate coder from 🇬🇧 Sheffield. Trained in web development: JavaScript, React, Node, Express, and so on 💪🏼. I've returned to my journey to be a full-stack web developer and software developer one day ⏱. I'm one of them inconspicuous geeks: I like Harry Potter, Pokémon, 90's music and rom-coms 🤓   
 > *I wanna be the very best, like no-one ever was, dum dum-dum*<img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
 <details closed>
@@ -23,6 +23,6 @@ My vision is to design it professionally but with some cool aspects - clever sty
 
 ---
 #### Feel free to drop me a message   
-Facebook: [@bradleyjamesashton](https://www.facebook.com/bradleyjamesashton)   
-LinkedIn: [@b-ashton](https://www.linkedin.com/in/b-ashton/)   
-WhatsApp: [@447516422971](https://wa.me/447516422971)
+Facebook: [@enitdev](https://www.facebook.com/enitdev)   
+LinkedIn: [@enitdev](https://www.linkedin.com/in/enitdev)   
+Twitter: [@enitdev](https://www.twitter.com/enitdev)   
