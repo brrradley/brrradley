@@ -23,6 +23,4 @@ My vision is to design it professionally but with some cool aspects - clever sty
 
 ---
 #### Feel free to drop me a message   
-Facebook: [@enitdev](https://www.facebook.com/enitdev)   
-LinkedIn: [@enitdev](https://www.linkedin.com/in/enitdev)   
-Twitter: [@enitdev](https://www.twitter.com/enitdev)   
+Facebook: [@enitdev](https://www.facebook.com/enitdev) | Twitter: [@enitdev](https://www.twitter.com/enitdev) | LinkedIn: [@enitdev](https://www.linkedin.com/in/enitdev)   
