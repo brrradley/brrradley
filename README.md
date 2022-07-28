@@ -1,4 +1,4 @@
-## Hiya ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br> I'm Bradley aka [@enitdev](https://github.com/enitdev). Knowledge is power, so they say.   
+## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hiya ,<br> I'm Bradley aka [@enitdev](https://github.com/enitdev). Knowledge is power, so they say.   
 <a href="https://www.github.com/enitdev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/enitdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/enitdev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/enitdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 I'm a passionate coder from 🇬🇧 Sheffield. Trained in web development: JavaScript, React, Node, Express, and so on 💪🏼. I've returned to my journey to be a full-stack web developer and software developer one day ⏱. I'm one of them inconspicuous geeks: I like Harry Potter, Pokémon, 90's music and rom-coms 🤓   
