@@ -19,14 +19,15 @@ I'm a passionate coder from 🇬🇧 Sheffield. Trained in web development: Java
 ---
 ## Currently   
 
-#### New portfolio   
+#### New Portfolio   
 * Frontend with HTML, SCSS, JS with React framework.     
 * Studying how to deploy this on my CentOS server. I think i just need Node installed on the server? TBC.
    
 #### Studies   
 * PHP courses. With help from tutorials from Traversy Media (& others).   
 * Docker for Beginners - Udemy course.   
-* Tailwind.
+* Tailwind.   
+* Using Figma more for wireframes and with comparison deciding whether i prefer Figma over Adobe XD.
 
 ---
 ### Skills
