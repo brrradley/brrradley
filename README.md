@@ -4,7 +4,7 @@
 I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester, long story) and I'm trained in software development such as JavaScript, React, Node, Express, and so on 💪🏼. My current journey being a front-end developer gives me the opportunities to show my creative side where i can be hands-on with UI/UX 🎨.      
 
 When i'm away from the keyboard i have a variety of passionate hobbies which include: competitive gaming 🕹, blackball pool player 🎱 and event DJ 🎧. I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music and rom-coms 🤓.   
-> *I wanna be the very best, like no-one ever was, dum dum-dum*<img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
+> *I wanna be the very best, like no-one ever was, dum dum dum-dum*<img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
 <details closed>
 <summary>read more boring stuff about my past >></summary>
 <br>
