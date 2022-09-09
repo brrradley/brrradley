@@ -23,7 +23,7 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 
 #### New Portfolio   
 * Reformat to use Tailwind CSS and HTML5 semantic tags.   
-* Improve UI/UX
+* Improve UI/UX.
 * Studying how to deploy this on my CentOS server. I think i just need Node installed on the server? TBC.
 * **It turns out i didn't need Node installed but i installed it anyway 🤷🏻‍♂️
 
@@ -32,7 +32,7 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 
 #### Fºrecast (Weather App)
 * Change API endpoint for better geolocation params result.
-* Improve UI/UX
+* Improve UI/UX.
    
 #### Studies   
 * PHP (Traversy Media).   
