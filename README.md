@@ -22,14 +22,23 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 ## Currently   
 
 #### New Portfolio   
-* Frontend with HTML, SCSS, JS with React framework.     
+* Reformat to use Tailwind CSS and HTML5 semantic tags.   
+* Improve UI/UX
 * Studying how to deploy this on my CentOS server. I think i just need Node installed on the server? TBC.
+* **It turns out i didn't need Node installed but i installed it anyway 🤷🏻‍♂️
+
+#### Simdex (Simlish4 - client)
+* Reformat to use Tailwind CSS and HTML5 semantic tags.   
+
+#### Fºrecast (Weather App)
+* Change API endpoint for better geolocation params result.
+* Improve UI/UX
    
 #### Studies   
-* PHP courses. With help from tutorials from Traversy Media (& others).   
+* PHP (Traversy Media).   
 * Docker for Beginners - Udemy course.   
-* Tailwind.   
-* Using Figma more for wireframes and with comparison deciding whether i prefer Figma over Adobe XD.
+* (more) Tailwind CSS.   
+* (more) Figma for wireframes and presentations.
 
 ---
 ### Development Skills
