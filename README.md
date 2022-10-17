@@ -38,7 +38,7 @@ _Update_
    
 #### Studies   
 * PHP (Traversy Media).   
-* Docker for Beginners - Udemy course.   
+* Docker   
 * (more) Tailwind CSS.   
 * (more) Figma for wireframes and presentations.
 
