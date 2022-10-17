@@ -21,18 +21,20 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 ---
 ## Currently   
 
-#### New Portfolio   
-* Reformat to use Tailwind CSS and HTML5 semantic tags.   
-* Improve UI/UX.
-* Studying how to deploy this on my CentOS server. I think i just need Node installed on the server? TBC.
-* **It turns out i didn't need Node installed but i installed it anyway 🤷🏻‍♂️
+#### Warm Banks (contracted)   
+* MERN full stack app with The Developer Academy.   
+_Update_
+* Backend complete with MongoDB & Mongoose, Node and Express. ✅
+* Map (Leaflet.JS) with custom location pins which include popup information: title, facilities, opening hours. ✅
+* UX/UI design.
+* Complete CRUD operations.
 
 #### Simdex (Simlish4 - client)
 * Reformat to use Tailwind CSS and HTML5 semantic tags.   
 
 #### Fºrecast (Weather App)
 * Change API endpoint for better geolocation params result.
-* Improve UI/UX.
+* Re-design UI/UX.
    
 #### Studies   
 * PHP (Traversy Media).   
