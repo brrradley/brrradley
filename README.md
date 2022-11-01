@@ -21,13 +21,12 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 ## Currently   
 
 #### Warm Banks (client) ✅   
+_Update_: Project Complete ✅
 * MERN full stack app with The Developer Academy.   
-_Update_
 * Backend complete with MongoDB & Mongoose, Node and Express.
 * Map (Leaflet.JS) with custom location pins which include popup information: title, facilities, opening hours.
 * UX/UI design.
 * CRUD operations.
-* ** Project Complete ✅
 
 #### Simdex (Simlish4 - client)
 * Reformat to use Tailwind CSS and HTML5 semantic tags.   
