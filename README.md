@@ -20,7 +20,7 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 ---
 ## Currently   
 
-#### Warm Banks (client) ✅   
+#### Warm Banks (client)   
 _Update_: Project Complete ✅
 * MERN full stack app with The Developer Academy.   
 * Backend complete with MongoDB & Mongoose, Node and Express.
