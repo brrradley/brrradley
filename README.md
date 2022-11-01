@@ -20,13 +20,14 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 ---
 ## Currently   
 
-#### Warm Banks (client)   
+#### Warm Banks (client) ✅   
 * MERN full stack app with The Developer Academy.   
 _Update_
-* Backend complete with MongoDB & Mongoose, Node and Express. ✅
-* Map (Leaflet.JS) with custom location pins which include popup information: title, facilities, opening hours. ✅
+* Backend complete with MongoDB & Mongoose, Node and Express.
+* Map (Leaflet.JS) with custom location pins which include popup information: title, facilities, opening hours.
 * UX/UI design.
-* Complete CRUD operations.
+* CRUD operations.
+* ** Project Complete ✅
 
 #### Simdex (Simlish4 - client)
 * Reformat to use Tailwind CSS and HTML5 semantic tags.   
@@ -36,10 +37,7 @@ _Update_
 * Re-design UI/UX.
    
 #### Studies   
-* PHP (Traversy Media).   
-* Docker   
-* (more) Tailwind CSS.   
-* (more) Figma for wireframes and presentations.
+* TypeScript.  
 
 ---
 ### Development Skills
