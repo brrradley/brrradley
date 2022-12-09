@@ -23,8 +23,8 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 #### Warm Banks (client)   
 _Update_: Project Launched ✅
 * MERN full stack app with The Developer Academy.   
-* Backend complete with MongoDB & Mongoose, Node and Express.
-** Backend moved to Azure, CosmosDB.
+* Backend complete with MongoDB & Mongoose, Node and Express.   
+  Backend moved to Azure, CosmosDB.
 * Map (Leaflet.JS) with custom location pins which include popup information: title, facilities, opening hours.
 * UX/UI design.
 * CRUD operations.
