@@ -1,4 +1,4 @@
-## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hiya ,<br> I'm Bradley aka [@enitdev](https://github.com/enitdev). Knowledge is power, so they say.   
+## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hiya ,<br> I'm Bradley [@decafdev](https://github.com/decafdeveloper). Knowledge is power, so they say.   
 
 I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester, long story) and I'm trained in software development such as JavaScript, React, Node, Express, and so on 💪🏼. My current journey being a front-end developer gives me the opportunities to show my creative side where i can be hands-on with UI/UX 🎨.      
 
