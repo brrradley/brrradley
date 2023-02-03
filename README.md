@@ -14,7 +14,7 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 
 ---
 ### Warm & Safe
-Warm & Safe ([warmbanks.net](https://warmbanks.net)) locates locations where someone can go to stay warm. Each pin gives information on address, facilities available and opening hours. Developed as part of an agile software consultancy team, tech used included HTML, CSS, JavaScript, OpenStreetMap API, Leaflet.js, Express, Node, Mongoose, Mongo DB, Json Web Tokens (JWT) full CRUD capabilities using Slack and MS Teams for communication. Accessibility for screen readers.  
+Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someone can go to stay warm. Each pin gives information on address, facilities available and opening hours. Developed as part of an agile software consultancy team, tech used included HTML, CSS, JavaScript, OpenStreetMap API, Leaflet.js, Express, Node, Mongoose, MongoDB, JSON Web Tokens (JWT) and full CRUD capabilities using Slack and MS Teams for communication. Accessibility for screen readers.  
 
 ---
 ### LiteRECORDS
