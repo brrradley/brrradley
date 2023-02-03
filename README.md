@@ -14,11 +14,11 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 
 ---
 ### Warm & Safe
-Warm & Safe (([warmbanks.net](https://warmbanks.net))) locates locations where someone can go to stay warm. Each pin gives information on address, facilities available and opening hours. Developed as part of an agile software consultancy team, tech used included HTML, CSS, JavaScript, OpenStreetMap API, Leaflet.js, Express, Node, Mongoose, Mongo DB, Json Web Tokens (JWT) full CRUD capabilities using Slack and MS Teams for communication. Accessibility for screen readers.  
+Warm & Safe ([warmbanks.net](https://warmbanks.net)) locates locations where someone can go to stay warm. Each pin gives information on address, facilities available and opening hours. Developed as part of an agile software consultancy team, tech used included HTML, CSS, JavaScript, OpenStreetMap API, Leaflet.js, Express, Node, Mongoose, Mongo DB, Json Web Tokens (JWT) full CRUD capabilities using Slack and MS Teams for communication. Accessibility for screen readers.  
 
 ---
 ### LiteRECORDS
-([LiteRECORDS](https://literecords.com)) started out as a pet project in 2010 and become my classroom and foundation for learning large-scale web development. Since 2010 it's had 4 complete front end design overhauls and over 30 features and services built along the way. The ([LiteRECORDS](https://literecords.com)) community now hosts over 33,000 members worldwide and has an average annual revenue of £6,500. It was here I began my understanding of JavaScript, PHP and XML with vBulletin hack. This project displays the Shoutcast server details from XML, fetches the user details from MySQL database and refreshes the details and online indication with AJAX.   
+[LiteRECORDS](https://literecords.com) started out as a pet project in 2010 and become my classroom and foundation for learning large-scale web development. Since 2010 it's had 4 complete front end design overhauls and over 30 features and services built along the way. The [LiteRECORDS](https://literecords.com) community now hosts over 33,000 members worldwide and has an average annual revenue of £6,500. It was here I began my understanding of JavaScript, PHP and XML with vBulletin hack. This project displays the Shoutcast server details from XML, fetches the user details from MySQL database and refreshes the details and online indication with AJAX.   
 
 ---
 ### The Developer Academy
