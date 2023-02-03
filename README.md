@@ -27,8 +27,7 @@ Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someo
 ---
 ## Currently   
 
-#### Warm Banks (client)   
-_Update_: Project Launched ✅ ([Warm & Safe](https://warmbanks.net))
+#### Portfolio   
 * MERN full stack app with The Developer Academy.   
 * Backend complete with MongoDB & Mongoose, Node and Express.   
   Backend moved to Azure, CosmosDB.
@@ -53,4 +52,4 @@ _Update_: Project Launched ✅ ([Warm & Safe](https://warmbanks.net))
 
 ---
 #### Feel free to connect, follow or drop me a message 😚   
-<p align="left"> <a href="https://www.facebook.com/decafdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/decafdeveloper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://dev.to/decafdeveloper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/decafdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/enitdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></a></p>
+<p align="left"> <a href="https://www.facebook.com/decafdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/decafdeveloper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://dev.to/decafdeveloper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/decafdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/enitdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></a></p>
