@@ -1,4 +1,4 @@
-## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hiya ,<br> I'm Bradley [@decafdev](https://github.com/decafdeveloper). Knowledge is power, so they say.   
+## ![]<a href="https://www.buymeacoffee.com/decafdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> Hiya ,<br> I'm Bradley [@decafdev](https://github.com/decafdeveloper). Knowledge is power, so they say.   
 
 I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester, long story) and I'm trained in software development such as JavaScript, React, Node, Express, and so on 💪🏼. My current journey being a front-end developer gives me the opportunities to show my creative side where i can be hands-on with UI/UX 🎨.      
 
@@ -11,7 +11,6 @@ When i'm away from the keyboard i have a variety of passionate hobbies which inc
 <br/><br/>
   In 2004 I did a little web design training using Macromedia (Adobe CC <em>it's called these days</em> 🙄 ) learning HTML & CSS. My web design teacher Dave Jones (Pride Media, Middleton) introduced me to performing as a DJ and how to use Cool Edit Pro 2 <em>another Adobe product now</em> called Adobe Audition) and my life as a mashup artist and DJ began. Shortly after I created a community board using vBulletin software dedicated to music artists - LiteRECORDS (2010). Skip a decade or so and I wanted to return to coding so we're up-to-speed.
 </details>
-<a href="https://www.buymeacoffee.com/decafdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ---
 ### The Developer Academy
