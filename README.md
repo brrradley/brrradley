@@ -28,12 +28,10 @@ Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someo
 ## Currently   
 
 #### Portfolio   
-* MERN full stack app with The Developer Academy.   
-* Backend complete with MongoDB & Mongoose, Node and Express.   
-  Backend moved to Azure, CosmosDB.
-* Map (Leaflet.JS) with custom location pins which include popup information: title, facilities, opening hours.
-* UX/UI design.
-* CRUD operations.
+* Redesign using _eye-catching_ CSS animation. ✔︎
+* Include
+** HTML5 semantic tags.
+** Tailwind CSS.
 
 #### Simdex (Simlish4 - client)
 * Reformat to use Tailwind CSS and HTML5 semantic tags.   
