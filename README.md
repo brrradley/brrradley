@@ -30,8 +30,8 @@ Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someo
 #### Portfolio   
 * Redesign using _eye-catching_ CSS animation. ✔︎
 * Include
- - HTML5 semantic tags.
- - Tailwind CSS.
+  - HTML5 semantic tags.
+  - Tailwind CSS.
 
 #### Simdex (Simlish4 - client)
 * Reformat to use Tailwind CSS and HTML5 semantic tags.   
