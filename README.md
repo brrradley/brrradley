@@ -31,7 +31,7 @@ Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someo
 
 ---
 ### LiteRECORDS
-[LiteRECORDS](https://literecords.com) started out as a pet project and become my classroom and foundation for learning large-scale web development. Since 2010 it's had 4 complete front end design overhauls and over 30 features and services built along the way. The [LiteRECORDS](https://literecords.com) community now hosts over 33,000 members worldwide and has an average annual revenue of £6,500. It was here I began my understanding of JavaScript, PHP and XML with vBulletin hack. This project displays the Shoutcast server details from XML, fetches the user details from MySQL database and refreshes the details and online indication with AJAX.   
+[LiteRECORDS](https://literecords.com) started out as a pet project and become my classroom and foundation for learning large-scale web development. Since 2010 it's had 4 complete front end design overhauls and over 30 features and services built along the way. The community now hosts over 33,000 members worldwide and has an average annual revenue of £6,500. It was here I began my understanding of JavaScript, PHP and XML with vBulletin hack. This project displays the Shoutcast server details from XML, fetches the user details from MySQL database and refreshes the details and online indication with AJAX.   
 
 ---
 ### The Developer Academy
