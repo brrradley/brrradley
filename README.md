@@ -32,16 +32,11 @@ Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someo
 * Include
   - HTML5 semantic tags.
   - Tailwind CSS.
-
-#### Simdex (Simlish4 - client)
-* Reformat to use Tailwind CSS and HTML5 semantic tags.   
-
-#### Fºrecast (Weather App)
-* Change API endpoint for better geolocation params result.
-* Re-design UI/UX.
+  - API call.
    
 #### Studies   
-* TypeScript.  
+* TypeScript.
+* GraphQL.
 
 ---
 ### Development Skills
