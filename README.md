@@ -5,7 +5,8 @@ I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester
 When i'm away from the keyboard i have a variety of passionate hobbies which include<br>
 🕹 competitive gaming<br>
 🎱 blackball pool<br>
-🎧 DJing<br>
+🎧 DJing<br><br>
+
 I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music and rom-coms 🤓.   
 > *I wanna be the very best, like no-one ever was, dum dum dum-dum*<img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
 <details closed>
