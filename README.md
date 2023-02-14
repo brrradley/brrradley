@@ -50,3 +50,4 @@ Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someo
 #### Studies   
 * TypeScript.
 * GraphQL.
+* React Native.
