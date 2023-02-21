@@ -44,7 +44,7 @@ Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someo
 * Redesign using _eye-catching_ CSS animation. ✔︎
 * Include
   - HTML5 semantic tags.
-  - Tailwind CSS. ⨯
+  - ~~Tailwind CSS.~~
   - API call.
    
 #### Studies   
