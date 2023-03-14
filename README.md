@@ -41,10 +41,11 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 ## Currently   
 
 #### Portfolio   
-* Redesign using _eye-catching_ CSS animation. ✔︎
+* Redesign frontend.
 * Include
-  - HTML5 semantic tags.
-  - ~~Tailwind CSS.~~
+  - CSS Animation. ✔︎
+  - HTML5 semantic tags. ✔︎
+  - Tailwind CSS. ✔︎
   - API call.
    
 #### Studies   
