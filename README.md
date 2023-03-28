@@ -1,5 +1,5 @@
-## I'm Bradley [@decafdev](https://github.com/decafdeveloper). Knowledge is power, so they say.   
 <h1 align ="center" ><a href="https://www.buymeacoffee.com/decafdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></h1>
+## I'm Bradley [@decafdev](https://github.com/decafdeveloper). Knowledge is power, so they say.   
 
 I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester, long story) and I'm trained in software development such as JavaScript, React, Node, Express, and so on 💪🏼. My current journey being a front-end developer gives me the opportunities to show my creative side where i can be hands-on with UI/UX 🎨.      
 
