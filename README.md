@@ -17,7 +17,8 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
   In 2004 I did a little web design training using Macromedia (Adobe CC <em>it's called these days</em> 🙄 ) learning HTML & CSS. My web design teacher Dave Jones (Pride Media, Middleton) introduced me to performing as a DJ and how to use Cool Edit Pro 2 <em>another Adobe product now</em> called Adobe Audition) and my life as a mashup artist and DJ began. Shortly after I created a community board using vBulletin software dedicated to music artists - LiteRECORDS (2010). Skip a decade or so and I wanted to return to coding so we're up-to-speed.
 </details>
 
-## Feel free to connect, follow or drop a message 😚   
+##   
+### Feel free to connect, follow or drop a message 😚   
 <p align="left"> <a href="https://www.linkedin.com/in/decafdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp; <a href="https://www.twitter.com/decafdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/decafdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;&nbsp;<a href="https://dev.to/decafdeveloper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> </p>
 
 ---
