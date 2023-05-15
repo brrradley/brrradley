@@ -29,7 +29,7 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
 ---
 ### Warm & Safe
 Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someone can go to stay warm. Each pin gives information on address, facilities available and opening hours. Developed as part of an agile software consultancy team, tech used included HTML, CSS, JavaScript, OpenStreetMap API, Leaflet.js, Express, Node, Mongoose, MongoDB, JSON Web Tokens (JWT) and full CRUD capabilities using Slack and MS Teams for communication. Accessibility for screen readers.  
-_(Not maintained by host. New repo coming soon)_
+_**(Not currently maintained by host. New repo coming soon)**_
 
 ---
 ### LiteRECORDS
