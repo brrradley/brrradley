@@ -37,7 +37,7 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 
 ---
 ### The Developer Academy
-**A special mention** to my mentor and friend Alyzande Renard ([@Alyzande](https://github.com/Alyzande)) for supporting me throughout my journey as a developer.   
+**A special mention** to my mentor and friend Alyzande Renard ([@Alyzande](https://github.com/Alyzande)) for supporting me throughout my journey as a software developer.   
 2022 Web Development Bootcamp: Neil Bizzle ([@NBizzle](https://github.com/NBizzell)) and Colin Smith ([@compinschools](https://github.com/compinschools)) from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern web development skills in JS, OOP and MERN stack.   
 
 ---
