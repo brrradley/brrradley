@@ -19,7 +19,7 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
 
 ##   
 ### Feel free to connect, follow or drop a message 😚   
-<p align="left"> <a href="https://www.linkedin.com/in/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp; <a href="https://www.twitter.com/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;&nbsp;<a href="https://dev.to/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;<a href="https://www.facebook.com/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;&nbsp;<a href="https://dev.to/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> </p>
 
 ---
 ### Development Skills
@@ -28,8 +28,8 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
 
 ---
 ### Warm & Safe
-Warm & Safe ([warmbanks.net](https://warmbanks.net)) shows locations where someone can go to stay warm. Each pin gives information on address, facilities available and opening hours. Developed as part of an agile software consultancy team, tech used included HTML, CSS, JavaScript, OpenStreetMap API, Leaflet.js, Express, Node, Mongoose, MongoDB, JSON Web Tokens (JWT) and full CRUD capabilities using Slack and MS Teams for communication. Accessibility for screen readers.  
-_**(Not currently maintained by host. New repo coming soon)**_
+Warm & Safe shows locations where someone can go to stay warm. Each pin gives information on address, facilities available and opening hours. Developed as part of an agile software consultancy team, tech used included HTML, CSS, JavaScript, OpenStreetMap API, Leaflet.js, Express, Node, Mongoose, MongoDB, JSON Web Tokens (JWT) and full CRUD capabilities using Slack and MS Teams for communication. Accessibility for screen readers.  
+<center>_**(Not currently maintained by host. New repo coming soon)**_</center>
 
 ---
 ### LiteRECORDS
@@ -37,7 +37,8 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 
 ---
 ### The Developer Academy
-**A MASSIVE THANK YOU** 🙏🏼 to Alyzande Renard ([@Alyzande](https://github.com/Alyzande)), Neil Bizzle ([@NBizzle](https://github.com/NBizzell)), Colin Smith ([@compinschools](https://github.com/compinschools)) and Ben Artha & Ilana Black from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern web development skills in JS, OOP and MERN stack.   
+**A special mention** to my mentor and friend Alyzande Renard ([@Alyzande](https://github.com/Alyzande)) for supporting me throughout my journey as a developer.   
+2022 Web Development Bootcamp: Neil Bizzle ([@NBizzle](https://github.com/NBizzell)) and Colin Smith ([@compinschools](https://github.com/compinschools)) from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern web development skills in JS, OOP and MERN stack.   
 
 ---
 ## Currently   
