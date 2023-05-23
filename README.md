@@ -44,10 +44,20 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 ## Currently   
 
 #### Node App Hosting on CentOS VPS  
-* Host Node apps (React, Vite). ✔︎
-* Setup Process Manager so apps are always live. ✔︎
+* Host Node apps (React, Vite) ✔︎
+* Host Node apps (backend: Express) ✔︎
+* Setup Process Manager so apps are always live ✔︎
 * Link process to subdomain/domain
-* Host Node apps (backend: Express)
+
+#### Refactor Graduates app for demo  
+* Demo access & management ✔︎
+* Host to literecords.com ✔︎
+* UX rebuild
+* Add branding options
+
+#### Refactor Warm & Safe  
+* UI Upgrade
+* Host to literecords.com
    
 #### Studies   
 * React Native.
