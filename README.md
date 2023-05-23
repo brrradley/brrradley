@@ -6,7 +6,7 @@ When i'm away from the keyboard i have a variety of hobbies which include<br>
 🕹 competitive gaming   
 🎱 blackball pool   
 🎧 DJing   
-[Listen to my mixes on HearThis.at](https://hearthis.at/enitial/)<br><br>
+[Listen to eNITIAL tracks/mixes on HearThis.at](https://hearthis.at/enitial/)<br><br>
 
 I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music and rom-coms 🤓.   
 > *I wanna be the very best, like no-one ever was, dum dum dum-dum*<img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
