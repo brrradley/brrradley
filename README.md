@@ -59,6 +59,11 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 #### Refactor Warm & Safe  
 * UI Upgrade
 * Host to literecords.com
+
+#### Wordpress Upgrade and Config (client)  
+* * Assisting senior PHP dev ✔︎
+* Responsive fixes
+* Plugin audit
    
 #### Studies   
 * React Native
