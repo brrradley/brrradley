@@ -1,11 +1,12 @@
 ## I'm Bradley [@decafdevio](https://github.com/decafdevio). Knowledge is power, so they say.   
 
-I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester, long story) and I'm trained in software development such as JavaScript, React, Node, Express, and so on 💪🏼. My current journey being a front-end developer gives me the opportunities to show my creative side where i can be hands-on with UI/UX 🎨.      
+I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester but that's another story). I'm trained as a software development in JavaScript, JSX, Node, Express, and so on 💪🏼. My current journey as a front-end developer gives me the opportunities to showcase my creative side with UX, REST and product architecture 🎨.      
 
-When i'm away from the keyboard i have a variety of passionate hobbies which include<br>
+When i'm away from the keyboard i have a variety of hobbies which include<br>
 🕹 competitive gaming<br>
 🎱 blackball pool<br>
-🎧 DJing ([Listen to my mixes on HearThis.at](https://hearthis.at/enitial/))<br><br>
+🎧 DJing   
+([Listen to my mixes on HearThis.at](https://hearthis.at/enitial/))<br><br>
 
 I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music and rom-coms 🤓.   
 > *I wanna be the very best, like no-one ever was, dum dum dum-dum*<img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
@@ -60,7 +61,7 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 * Host to literecords.com
    
 #### Studies   
-* React Native.
+* React Native
 
 ##   
 <h1 align ="center" ><a href="https://www.buymeacoffee.com/decafdevio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></h1>
