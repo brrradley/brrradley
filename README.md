@@ -50,14 +50,14 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
   - [x] Setup Process Manager
   - [ ] NGinx process to new domain
 
-#### Refactor Graduates app for demo  
+#### Refactor Graduates [demo]
   - [x] Host to literecords.com
   - [x] Demo access & management
   - [x] UI/UX rebuild
   - [ ] Bug fixes
   - [ ] Clean code
 
-#### Refactor Warm & Safe  
+#### Refactor Warm & Safe [demo]
   - [ ] Host to literecords.com
   - [ ] Trim DB
   - [ ] UI Upgrade
