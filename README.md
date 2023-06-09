@@ -55,11 +55,13 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
   - [x] Host to literecords.com
   - [x] UI/UX rebuild
   - [ ] Bug fixes
+  - [ ] Clean code
 
 #### Refactor Warm & Safe  
   - [ ] Host to literecords.com
   - [ ] Trim DB
   - [ ] UI Upgrade
+  - [ ] Clean code
 
 #### Revamp LiteRECORDS  
   - [ ] Layout styling
