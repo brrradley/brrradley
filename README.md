@@ -48,17 +48,18 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
   - [x] Host Node apps (React, Vite)
   - [x] Host Node apps (backend: Express)
   - [x] Setup Process Manager so apps are always live
-  - [ ] Link process to subdomain/domain
+  - [ ] Link process to new domain with NGinx
 
 #### Refactor Graduates app for demo  
   - [x] Demo access & management
   - [x] Host to literecords.com
-  - [ ] UX rebuild
-  - [ ] Add branding options
+  - [x] UI/UX rebuild
+  - [ ] Bug fixes
 
 #### Refactor Warm & Safe  
-  - [ ] UI Upgrade
   - [ ] Host to literecords.com
+  - [ ] Trim DB
+  - [ ] UI Upgrade
 
 #### Revamp LiteRECORDS  
   - [ ] Layout styling
