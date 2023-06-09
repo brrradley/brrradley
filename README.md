@@ -46,7 +46,7 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 
 #### Node App Hosting on CentOS VPS  
   - [x] Host Node apps (React, Vite)
-  - [x] Host Node apps (backend: Express)
+  - [x] Host Node apps (Express)
   - [x] Setup Process Manager so apps are always live
   - [ ] Link process to new domain with NGinx
 
