@@ -47,12 +47,12 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 #### Node App Hosting on CentOS VPS  
   - [x] Host Node apps (React, Vite)
   - [x] Host Node apps (Express)
-  - [x] Setup Process Manager so apps are always live
-  - [ ] Link process to new domain with NGinx
+  - [x] Setup Process Manager
+  - [ ] NGinx process to new domain
 
 #### Refactor Graduates app for demo  
-  - [x] Demo access & management
   - [x] Host to literecords.com
+  - [x] Demo access & management
   - [x] UI/UX rebuild
   - [ ] Bug fixes
   - [ ] Clean code
