@@ -59,7 +59,7 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 
 #### Refactor Warm & Safe [demo]
   - [ ] Host to literecords.com
-  - [ ] Trim DB
+  - [x] Trim DB
   - [ ] UI Upgrade
   - [ ] Clean code
 
