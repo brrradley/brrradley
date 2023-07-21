@@ -1,6 +1,6 @@
 ## I'm Bradley [@decafdevio](https://github.com/decafdevio). Knowledge is power, so they say.   
 
-I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester but that's another story). I'm trained as a software development in JavaScript, JSX, Node, Express, and so on 💪🏼. My current journey as a front-end developer gives me the opportunities to showcase my creative side with UX, REST and product architecture 🎨.      
+I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester but that's another story). I'm trained as a software developer in JavaScript, JSX, Node, Express, and so on 💪🏼. My current journey as a front-end developer gives me the opportunities to showcase my creative side with UX, REST and product architecture 🎨.      
 
 When i'm away from the keyboard i have a variety of hobbies which include<br>
 🕹 competitive gaming   
