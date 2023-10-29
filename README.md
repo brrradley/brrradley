@@ -28,11 +28,6 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://react-leaflet.js.org" target="_blank" rel="noreferrer"><img src="https://react-leaflet.js.org/img/logo.svg" width="46" height="46" alt="React Leaflet" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> </p> 
 
 ---
-### Warm & Safe
-Warm & Safe shows locations where someone can go to stay warm. Each pin gives information on address, facilities available and opening hours. Developed as part of an agile software consultancy team, tech used included HTML, CSS, JavaScript, OpenStreetMap API, Leaflet.js, Express, Node, Mongoose, MongoDB, JSON Web Tokens (JWT) and full CRUD capabilities using Slack and MS Teams for communication. Accessibility for screen readers.  
-### (Not currently maintained by host. New repo coming soon)
-
----
 ### LiteRECORDS
 LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet project and become my classroom and foundation for learning large-scale web development. Since 2010 it's had 4 complete front end design overhauls and over 30 features and services built along the way. The community now hosts over 33,000 members worldwide and has an average annual revenue of £6,500. It was here I began my understanding of JavaScript, PHP and XML with vBulletin hack. This project displays the Shoutcast server details from XML, fetches the user details from MySQL database and refreshes the details and online indication with AJAX.   
 
@@ -44,30 +39,33 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 ---
 ## Currently   
 
+#### Unnamed PWA
+  - [ ] Frontend
+
+#### Espresso Feeds
+  - [ ] Bug fixes
+  - [ ] Find directory for station logos
+  - [ ] Build to iOS/Android
+
 #### Node App Hosting on CentOS VPS  
-  - [x] Host Node apps (React, Vite)
-  - [x] Host Node apps (Express)
-  - [x] Setup Process Manager
   - [ ] NGinx process to new domain
 
 #### Refactor Graduates [demo]
-  - [x] Host to literecords.com
-  - [x] Demo access & management
-  - [x] UI/UX rebuild
   - [ ] Bug fixes
   - [ ] Clean code
 
 #### Refactor Warm & Safe [demo]
   - [ ] Host to literecords.com
-  - [x] Trim DB
   - [ ] UI Upgrade
   - [ ] Clean code
 
 #### Revamp LiteRECORDS  
-  - [ ] Layout styling
+  - [ ] Landing page layout restyling
    
 #### Studies   
 * React Native
+* Progressive Web App technologies
+* TypeScript
 
 ##   
 <h1 align ="center" ><a href="https://www.buymeacoffee.com/decafdevio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></h1>
