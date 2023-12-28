@@ -33,7 +33,9 @@ LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet pr
 
 ---
 ### Special Mentions
-**A very special mention** to my former mentors Alyzande Renard (work coach at Estio) and Dave Jones (former tutor at Pride Media) for supporting me throughout my journey as a software developer.   
+💐 Alyzande Renard - Estio   
+⭐️ Dave Jones - Pride Media   
+🔥 Brian Armstrong - Gen
 
 ---
 ## Currently   
