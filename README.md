@@ -32,9 +32,8 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
 LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet project and become my classroom and foundation for learning large-scale web development. Since 2010 it's had 4 complete front end design overhauls and over 30 features and services built along the way. The community now hosts over 33,000 members worldwide and has an average annual revenue of £6,500. It was here I began my understanding of JavaScript, PHP and XML with vBulletin hack. This project displays the Shoutcast server details from XML, fetches the user details from MySQL database and refreshes the details and online indication with AJAX.   
 
 ---
-### The Developer Academy
-**A special mention** to my mentor and friend Alyzande Renard ([@Alyzande](https://github.com/Alyzande)) for supporting me throughout my journey as a software developer.   
-2022 Web Development Bootcamp: Neil Bizzle ([@NBizzle](https://github.com/NBizzell)) and Colin Smith ([@compinschools](https://github.com/compinschools)) from The Developer Academy ([@TDAWebDevBootcamp](https://github.com/TDAWebDevBootcamp)) where I've learnt Agile methods and modern web development skills in JS, OOP and MERN stack.   
+### Special Mentions
+**A very special mention** to my former mentors Alyzande Renard ([@Alyzande](https://github.com/Alyzande))(work coach at Estio) and Dave Jones (former tutor at Pride Media) for supporting me throughout my journey as a software developer.   
 
 ---
 ## Currently   
