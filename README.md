@@ -29,7 +29,7 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
 
 ---
 ### LiteRECORDS
-LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet project and become my classroom and foundation for learning large-scale web development. Since 2010 it's had 4 complete front end design overhauls and over 30 features and services built along the way. The community now hosts over 33,000 members worldwide and has an average annual revenue of £6,500. It was here I began my understanding of JavaScript, PHP and XML with vBulletin hack. This project displays the Shoutcast server details from XML, fetches the user details from MySQL database and refreshes the details and online indication with AJAX.   
+LiteRECORDS ([literecords.com](https://literecords.com)) started out as a pet project and become my classroom and foundation for learning large-scale web development. Since 2010 it's had 4 complete front end design overhauls and over 30 features and services built along the way. The community now hosts over 33,000 members worldwide and doubled it's revenue every year in the first 3 years. It was here I began my understanding of JavaScript, PHP and XML with vBulletin hack.  
 
 ---
 ### Special Mentions
