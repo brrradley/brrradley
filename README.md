@@ -16,9 +16,9 @@
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-f56936?style=flat-square&logo=postman&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+    <img alt="vBulletin4" src="https://img.shields.io/badge/-vBulletin4-184D66?style=flat-square&logo=vbulletin&logoColor=white">
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital Ocean-2d7cf7?style=flat-square&logo=digitalocean&logoColor=white">
+    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
     <img alt="Hearthis.at" src="https://img.shields.io/badge/-HearThis.at-9f1f13?style=flat-square&logo=hearthis.at&logoColor=white">
 </p>
 
@@ -43,9 +43,12 @@ LiteRECORDS started out as a pet project back in 2010 and become my classroom an
 
 <h2>Special Mentions 🫶</h2>
 
-* Alyzande Renard - <b>BPP</b>  
-* Dave Jones - <b>Pride Media</b>  
-* Brian Armstrong - <b>Gen</b>
+Alyzande Renard   
+<sub>Coach at BPP</sub><br><br>
+Dave Jones   
+<sub>Teacher at Pride Media</sub><br><br>
+Brian Armstrong  
+<sub>Developer at Gen</sub>
 
 ##
 
