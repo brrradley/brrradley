@@ -22,6 +22,18 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
 ### Feel free to connect, follow or drop a message 😚   
 <p align="left"> <a href="https://www.linkedin.com/in/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;&nbsp;<a href="https://dev.to/decafdevio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> </p>
 
+###Let's Connect!
+<p><a href="https://github.com/brrradley" target="_blank">
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/brrradley" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:brad.j.ashton@gmail.com" target="_blank">
+        <img alt="Email" src="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+    <a href="https://discord.com/users/enitial" target="_blank">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+</p>
+
 ---
 ### Development Skills
 
