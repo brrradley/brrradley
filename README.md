@@ -1,5 +1,4 @@
-<h1>I'm Bradley [@decafdevio](https://github.com/decafdevio). Knowledge is power, so they say.</h1>
-<img src="https://cdn3.emoji.gg/emojis/7374-pixelpikachu.gif" width="50"/>
+<h1><img src="https://cdn3.emoji.gg/emojis/7374-pixelpikachu.gif" width="50"/> I'm Bradley. Knowledge is power, so they say.</h1>
 
 I'm a passionate coder from Sheffield 🇬🇧 (well, originally from Manchester but that's another story). I'm trained as a software developer in JavaScript, JSX, Node, Express, and so on 💪🏼. My current journey as a front-end developer gives me the opportunities to showcase my creative side with UX, REST and product architecture 🎨.      
 
