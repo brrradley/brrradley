@@ -31,6 +31,8 @@ I'm one of them inconspicuous geeks... I like Harry Potter, Pokémon, 90's music
         <img alt="Email" src="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
     <a href="https://discord.com/users/enitial" target="_blank">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+        <a href="">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 
 </p>
 
