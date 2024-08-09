@@ -26,9 +26,9 @@
 
 > *I wanna be.. the very best, like no-one ever was.. dum dum dum-dum*
 
-<h2>Hiya everyone 👋🏼  </h2>
+<h3>Hiya 👋🏼  </h3>
 I'm a web, app and PWA full stack developer from Sheffield 🇬🇧  
-.. <i>originally from Manchester but that's another story.</i>
+.. <i>originally from Manchester but that's another story.</i> I'm front end oriented with a focus on responsive and accessible UI/UX components structured from RESTful data.
 <br><br>
 
 🫥 I'm the founder and face of [LiteRECORDS.com](https://literecords.com)  
@@ -41,7 +41,8 @@ LiteRECORDS started out as a pet project back in 2010 and become my classroom an
   In 2004 I did a little web design training using Macromedia (Adobe CC <em>it's called these days</em> 🙄 ) learning HTML & CSS. My web design teacher Dave Jones (Pride Media, Middleton) introduced me to performing as a DJ and how to use Cool Edit Pro 2 <em>another Adobe product now</em> called Adobe Audition) and my life as a mashup artist and DJ began. Shortly after I created a community board using vBulletin software dedicated to music artists - LiteRECORDS (2010). Skip a decade or so and I wanted to return to coding so we're up-to-speed.
 </details>
 
-<h2>Special Mentions 🫶</h2>
+##
+<h3>Special Mentions 🫶</h3>
 
 Alyzande Renard   
 <sub>Coach at BPP</sub><br><br>
@@ -52,7 +53,7 @@ Brian Armstrong
 
 ##
 
-<h3>Let's Connect</h3>
+<h3>Let's Connect 🤗</h3>
 <p>
     <a href="mailto:brad.j.ashton@gmail.com" target="_blank">
         <img alt="Email" src="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
