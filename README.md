@@ -21,9 +21,10 @@
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital Ocean-2d7cf7?style=flat-square&logo=digitalocean&logoColor=white">
     <img alt="Hearthis.at" src="https://img.shields.io/badge/-HearThis.at-9f1f13?style=flat-square&logo=hearthis.at&logoColor=white">
 </p>
+
 <img src="https://cdn3.emoji.gg/emojis/7374-pixelpikachu.gif" width="40"/>
 
-> *I wanna be.. the very best, like no-one ever was.. dum dum dum-dum* <img src="https://github.com/clessg/pokesprite/blob/master/icons/pokeball/poke.png"/>  
+> *I wanna be.. the very best, like no-one ever was.. dum dum dum-dum*
 
 <h2>Hiya everyone 👋🏼  </h2>
 I'm a web, app and PWA full stack developer from Sheffield 🇬🇧  
