@@ -36,8 +36,8 @@ I'm a web, app and PWA full stack developer from Sheffield 🇬🇧
 .. <i>originally from Manchester but that's another story.</i> I'm front end oriented with a focus on responsive and accessible UI/UX components structured from RESTful data.
 <br><br>
 
-🫥 I'm the founder and face of [LiteRECORDS.com](https://literecords.com)  
-LiteRECORDS started out as a pet project back in 2010 and become my classroom and foundation for learning large-scale web development. It's had 4 complete design overhauls and over 30 features, plugins and services built along the way. The community now hosts over 33,000 musicians worldwide and it was here where I began fiddling with JavaScript, PHP and XML with vBulletin hack. 
+🫥 I'm the founder and face of [LiteRECORDS](https://literecords.com)  
+LiteRECORDS.com started out as a pet project back in 2010 and become my classroom and foundation for learning large-scale web development. It's had 4 complete design overhauls and over 30 features, plugins and services built along the way. The community now hosts over 33,000 musicians worldwide and it was here where I began fiddling with JavaScript, PHP and XML with vBulletin hack. 
 
 <details closed>
 <summary>more boring stuff about my past ...</summary>
