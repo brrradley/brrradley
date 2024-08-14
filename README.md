@@ -1,6 +1,7 @@
 <h3>My Coding Toolbox</h3>
 <p>
     <img alt="Apple" src="https://img.shields.io/badge/-Apple-181818?style=flat-square&logo=apple&logoColor=white">
+    <img alt="Safari" src="https://img.shields.io/badge/-Safari-2a88ee?style=flat-square&logo=safari&logoColor=white">
     <img alt="PWA" src="https://img.shields.io/badge/-Web Apps-5811c3?style=flat-square&logo=pwa&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-1c6eb4?style=flat-square&logo=css3&logoColor=white">
@@ -21,7 +22,6 @@
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital Ocean-2d7cf7?style=flat-square&logo=digitalocean&logoColor=white">
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Safari" src="https://img.shields.io/badge/-Safari Dev-2a88ee?style=flat-square&logo=safari&logoColor=white">
     <img alt="vBulletin4" src="https://img.shields.io/badge/-vBulletin4-184D66?style=flat-square&logo=vbulletin&logoColor=white">
     <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-2fa2f6?style=flat-square&logo=adobephotoshop&logoColor=white">
     <img alt="Hearthis.at" src="https://img.shields.io/badge/-HearThis.at-9f1f13?style=flat-square&logo=hearthis.at&logoColor=white">
