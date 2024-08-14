@@ -11,7 +11,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-cfb431?style=flat-square&logo=javascript&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-f3cb64?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-f56936?style=flat-square&logo=postman&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
