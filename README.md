@@ -1,21 +1,25 @@
 <h3>My Coding Toolbox</h3>
 <p>
+    <img alt="Express" src="https://img.shields.io/badge/-Express-f7f7f7?style=flat-square&logo=express&logoColor=black">
+    <img alt="Safari" src="https://img.shields.io/badge/-Safari Dev-2a88ee?style=flat-square&logo=safari&logoColor=white">
+    <img alt="Apple" src="https://img.shields.io/badge/-Apple-181818?style=flat-square&logo=apple&logoColor=white">
     <img alt="PWA" src="https://img.shields.io/badge/-Web Apps-5811c3?style=flat-square&logo=pwa&logoColor=white">
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-1c6eb4?style=flat-square&logo=css3&logoColor=white">
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-cfb431?style=flat-square&logo=javascript&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white" />
     <img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-80bf43?style=flat-square&logo=leaflet&logoColor=white">
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-f56936?style=flat-square&logo=postman&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="vBulletin4" src="https://img.shields.io/badge/-vBulletin4-184D66?style=flat-square&logo=vbulletin&logoColor=white">
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital Ocean-2d7cf7?style=flat-square&logo=digitalocean&logoColor=white">
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
