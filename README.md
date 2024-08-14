@@ -21,6 +21,7 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital Ocean-2d7cf7?style=flat-square&logo=digitalocean&logoColor=white">
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+    <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-636ede?style=flat-square&logo=stripe&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="vBulletin4" src="https://img.shields.io/badge/-vBulletin4-184D66?style=flat-square&logo=vbulletin&logoColor=white">
     <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-2fa2f6?style=flat-square&logo=adobephotoshop&logoColor=white">
