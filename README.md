@@ -1,4 +1,4 @@
-<h3>My Coding Toolbox</h3>
+<h3>Coding Toolbox 🧰</h3>
 <p>
     <img alt="Apple" src="https://img.shields.io/badge/-Apple-181818?style=flat-square&logo=apple&logoColor=white">
     <img alt="Safari" src="https://img.shields.io/badge/-Safari-2a88ee?style=flat-square&logo=safari&logoColor=white">
