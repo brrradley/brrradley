@@ -1,5 +1,6 @@
 <h3>My Coding Toolbox</h3>
 <p>
+    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-2fa2f6?style=flat-square&logo=adobephotoshop&logoColor=black">
     <img alt="Express" src="https://img.shields.io/badge/-Express-f7f7f7?style=flat-square&logo=express&logoColor=black">
     <img alt="Safari" src="https://img.shields.io/badge/-Safari Dev-2a88ee?style=flat-square&logo=safari&logoColor=white">
     <img alt="Apple" src="https://img.shields.io/badge/-Apple-181818?style=flat-square&logo=apple&logoColor=white">
