@@ -33,7 +33,7 @@
 > *I wanna be.. the very best, like no-one ever was.. dum dum dum-dum*
 
 <h3>Hiya 👋🏼  </h3>
-I'm a web, app and PWA full stack developer from Sheffield 🇬🇧  
+I'm an AI software developer from Sheffield 🇬🇧 specialising in web, app and PWA.   
 .. <i>originally from Manchester but that's another story.</i> I'm front end oriented with a focus on responsive and accessible UI/UX components structured from RESTful data.
 <br><br>
 
